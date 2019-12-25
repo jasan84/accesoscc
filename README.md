@@ -8,7 +8,7 @@ Presentado como opción para agilizar el acceso a información necesaria del sec
   <li> Información de contacto de sectores. </li>
   <li> Información de contacto de servicios de emergencia. </li>
   <li> Acceso a planillas de uso regular para descarga y/o impresión en el momento. </li>
-  <li> Acceso a directo a cámaras IP disponibles. </li>
+  <li> Acceso a directo para monitoreo de cámaras IP disponibles. </li>
 </ul>
 
 <hr/>
